@@ -1,8 +1,8 @@
 {
   "name": "hackathon2019",
   "version": "1.0.0",
-  "description": "Application for the HAckathon 2019\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[ac\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D copmpetition\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[mpetition",
-  "main": "index.js",
+  "description": "Application for the Hackathon 2019 competition",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,9 +11,11 @@
     "url": "git+https://github.com/lookforlight/Hackathon2019.git"
   },
   "keywords": [
-    "hackathon"
+    "hackathon",
+    "javascript",
+    "todo"
   ],
-  "author": "KommissarYoshi",
+  "author": "KommissarYoshi, lookforlight, techrud and overpowered",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lookforlight/Hackathon2019/issues"
